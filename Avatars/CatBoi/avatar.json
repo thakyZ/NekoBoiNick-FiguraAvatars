@@ -1,0 +1,24 @@
+{
+  "name": "Neko Boi Nick",
+  "description": "A cat boi named Nick",
+  "version": "1.0.0",
+  "authors": [
+    "Neko Boi Nick",
+    "Dragonearusscube for \"Feline\" asset compilation",
+    "Snqwblind for design help",
+    "Auria for tail and ear script",
+    "Deni for eat everything",
+    "GS for Gsanimblend"
+  ],
+  "color": "#0080ff",
+  "autoScripts": [
+    "script",
+    "ears",
+    "eatAnything",
+    "tailNew",
+    "longHair",
+    "bell",
+    "plushie",
+    "patpat"
+  ]
+}
